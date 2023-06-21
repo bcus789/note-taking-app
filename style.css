@@ -1,0 +1,24 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+}
+
+.main-div{
+    text-align: center;
+}
+
+.note-snippet{
+    background-color:#b1b1b1;
+    border-radius:4px;
+    font-size:16px;
+    padding:15px;
+    margin:5px;
+    width: 25%;
+}
+
+#notes-div{
+    margin-top: 3rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
